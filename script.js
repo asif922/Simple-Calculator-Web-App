@@ -1,6 +1,6 @@
-let input=document.getElementById('inputBox')
+let input=document.getElementById('inputBox');
 let button=document.querySelectorAll
-('button')
+('button');
 let string="";
 let arr= Array.from(button)
 arr.forEach(button => {
